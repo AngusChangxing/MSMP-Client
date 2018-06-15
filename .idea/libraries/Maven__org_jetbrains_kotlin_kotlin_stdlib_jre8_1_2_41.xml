@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jre8:1.2.41">
+    <CLASSES>
+      <root url="jar://D:/01_Program/apache-maven-3.3.9/repos/org/jetbrains/kotlin/kotlin-stdlib-jre8/1.2.41/kotlin-stdlib-jre8-1.2.41.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/01_Program/apache-maven-3.3.9/repos/org/jetbrains/kotlin/kotlin-stdlib-jre8/1.2.41/kotlin-stdlib-jre8-1.2.41-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/01_Program/apache-maven-3.3.9/repos/org/jetbrains/kotlin/kotlin-stdlib-jre8/1.2.41/kotlin-stdlib-jre8-1.2.41-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
